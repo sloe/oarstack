@@ -1,36 +1,11 @@
-*.py[cod]
+# Oarstack ignore spec
 
-# C extensions
-*.so
+# Video files
 
-# Packages
-*.egg
-*.egg-info
-dist
-build
-eggs
-parts
-bin
-var
-sdist
-develop-eggs
-.installed.cfg
-lib
-lib64
-__pycache__
+*.f4v
+*.flv
+*.mp4
 
-# Installer logs
-pip-log.txt
+# Sundry files
 
-# Unit test / coverage reports
-.coverage
-.tox
-nosetests.xml
-
-# Translations
-*.mo
-
-# Mr Developer
-.mr.developer.cfg
-.project
-.pydevproject
+Thumbs.db
