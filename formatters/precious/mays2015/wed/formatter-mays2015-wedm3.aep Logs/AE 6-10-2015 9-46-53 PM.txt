@@ -1,0 +1,171 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2015-wedm3.aep”
+
+Rendering started on 6/10/2015 at 9:46:53 PM
+
+
+  6/10/2015 9:46:53 PM: Starting composition “Churchill M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Churchill M2.mp4
+  
+  6/10/2015 9:50:33 PM: Finished composition “Churchill M2”.
+
+
+
+  6/10/2015 9:50:34 PM: Starting composition “Clare Hall M1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Clare Hall M1.mp4
+  
+  6/10/2015 9:53:02 PM: Finished composition “Clare Hall M1”.
+
+
+
+  6/10/2015 9:53:03 PM: Starting composition “Clare M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Clare M2.mp4
+  
+  6/10/2015 9:54:44 PM: Finished composition “Clare M2”.
+
+
+
+  6/10/2015 9:54:44 PM: Starting composition “Emmanuel M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Emmanuel M2.mp4
+  
+  6/10/2015 9:56:31 PM: Finished composition “Emmanuel M2”.
+
+
+
+  6/10/2015 9:56:31 PM: Starting composition “Emmanuel M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Emmanuel M3.mp4
+  
+  6/10/2015 9:58:50 PM: Finished composition “Emmanuel M3”.
+
+
+
+  6/10/2015 9:58:50 PM: Starting composition “First and Third M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\First and Third M3.mp4
+  
+  6/10/2015 10:00:42 PM: Finished composition “First and Third M3”.
+
+
+
+  6/10/2015 10:00:42 PM: Starting composition “Girton M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Girton M2.mp4
+  
+  6/10/2015 10:06:54 PM: Finished composition “Girton M2”.
+
+
+
+  6/10/2015 10:06:54 PM: Starting composition “Jesus M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Jesus M3.mp4
+  
+  6/10/2015 10:09:03 PM: Finished composition “Jesus M3”.
+
+
+
+  6/10/2015 10:09:04 PM: Starting composition “Kings M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Kings M2.mp4
+  
+  6/10/2015 10:13:58 PM: Finished composition “Kings M2”.
+
+
+
+  6/10/2015 10:13:58 PM: Starting composition “Lady Margaret M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Lady Margaret M3.mp4
+  
+  6/10/2015 10:15:43 PM: Finished composition “Lady Margaret M3”.
+
+
+
+  6/10/2015 10:15:44 PM: Starting composition “Magdalene M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Magdalene M2.mp4
+  
+  6/10/2015 10:18:21 PM: Finished composition “Magdalene M2”.
+
+
+
+  6/10/2015 10:18:21 PM: Starting composition “Pembroke M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Pembroke M2.mp4
+  
+  6/10/2015 10:19:34 PM: Finished composition “Pembroke M2”.
+
+
+
+  6/10/2015 10:19:34 PM: Starting composition “Peterhouse M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Peterhouse M2.mp4
+  
+  6/10/2015 10:21:04 PM: Finished composition “Peterhouse M2”.
+
+
+
+  6/10/2015 10:21:04 PM: Starting composition “Queens M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Queens M3.mp4
+  
+  6/10/2015 10:31:09 PM: Finished composition “Queens M3”.
+
+
+
+  6/10/2015 10:31:14 PM: Starting composition “Robinson M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Robinson M2.mp4
+  
+  6/10/2015 10:33:37 PM: Finished composition “Robinson M2”.
+
+
+
+  6/10/2015 10:33:37 PM: Starting composition “Selwyn M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Selwyn M2.mp4
+  
+  6/10/2015 10:34:57 PM: Finished composition “Selwyn M2”.
+
+
+
+  6/10/2015 10:34:57 PM: Starting composition “St Catharines M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\St Catharines M2.mp4
+  
+  6/10/2015 10:39:40 PM: Finished composition “St Catharines M2”.
+
+
+
+  6/10/2015 10:39:40 PM: Starting composition “Trinity Hall M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm3\Trinity Hall M2.mp4
+  
+  6/10/2015 10:41:59 PM: Finished composition “Trinity Hall M2”.
+
+
+
+  Total Time Elapsed: 55 Min, 6 Sec
+
+Log closed on 6/10/2015 at 10:41:59 PM
+

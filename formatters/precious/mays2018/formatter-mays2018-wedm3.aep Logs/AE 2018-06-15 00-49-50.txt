@@ -1,0 +1,75 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2018-wedm3.aep”
+
+Rendering started on 2018-06-15 at 00:49:50
+
+
+  2018-06-15 00:49:50: Starting composition “Christs M2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm3\Christs M2.mp4
+  
+  2018-06-15 00:52:00: Finished composition “Christs M2”.
+
+
+
+  2018-06-15 00:52:01: Starting composition “Churchill M2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm3\Churchill M2.mp4
+  
+  2018-06-15 00:54:12: Finished composition “Churchill M2”.
+
+
+
+  2018-06-15 00:54:12: Starting composition “Clare M3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm3\Clare M3.mp4
+  
+  2018-06-15 00:58:43: Finished composition “Clare M3”.
+
+
+
+  2018-06-15 00:58:43: Starting composition “Corpus Christi M2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm3\Corpus Christi M2.mp4
+  
+  2018-06-15 01:05:39: Finished composition “Corpus Christi M2”.
+
+
+
+  2018-06-15 01:05:39: Starting composition “Emmanuel M2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm3\Emmanuel M2.mp4
+  
+  2018-06-15 01:07:21: Finished composition “Emmanuel M2”.
+
+
+
+  2018-06-15 01:07:21: Starting composition “Emmanuel M3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm3\Emmanuel M3.mp4
+  
+  2018-06-15 01:13:12: Finished composition “Emmanuel M3”.
+
+
+
+  2018-06-15 01:13:12: Starting composition “First and Third M3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm3\First and Third M3.mp4
+  
+  
+  Render stopped by user.
+  
+  2018-06-15 01:14:56: Finished composition “First and Third M3”.
+
+
+
+  Total Time Elapsed: 25 Min, 1 Sec
+
+Log closed on 2018-06-15 at 01:14:57
+

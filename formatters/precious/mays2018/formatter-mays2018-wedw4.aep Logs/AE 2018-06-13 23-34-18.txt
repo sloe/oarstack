@@ -1,0 +1,10 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2018-wedw4.aep”
+
+Rendering started on 2018-06-13 at 23:34:18
+
+
+  2018-06-13 23:34:18: Starting composition “Caius W3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Caius W3.mp4
+  

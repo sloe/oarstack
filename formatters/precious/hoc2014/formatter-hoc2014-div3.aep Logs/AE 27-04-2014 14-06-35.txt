@@ -1,0 +1,189 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-hoc2014-div3.aep”
+
+Rendering started on 27/04/2014 at 14:06:35
+
+
+  27/04/2014 14:06:36: Starting composition “Comp 3001”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3001.mp4
+  
+  27/04/2014 14:14:03: Finished composition “Comp 3001”.
+
+
+
+  27/04/2014 14:14:03: Starting composition “Comp 3002”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3002.mp4
+  
+  27/04/2014 14:15:54: Finished composition “Comp 3002”.
+
+
+
+  27/04/2014 14:15:54: Starting composition “Comp 3003”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3003.mp4
+  
+  27/04/2014 14:19:42: Finished composition “Comp 3003”.
+
+
+
+  27/04/2014 14:19:42: Starting composition “Comp 3004”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3004.mp4
+  
+  27/04/2014 14:27:04: Finished composition “Comp 3004”.
+
+
+
+  27/04/2014 14:27:05: Starting composition “Comp 3005”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3005.mp4
+  
+  27/04/2014 14:30:12: Finished composition “Comp 3005”.
+
+
+
+  27/04/2014 14:30:13: Starting composition “Comp 3006”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3006.mp4
+  
+  27/04/2014 14:33:48: Finished composition “Comp 3006”.
+
+
+
+  27/04/2014 14:33:48: Starting composition “Comp 3007”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3007.mp4
+  
+  27/04/2014 14:36:54: Finished composition “Comp 3007”.
+
+
+
+  27/04/2014 14:36:55: Starting composition “Comp 3008”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3008.mp4
+  
+  27/04/2014 14:41:02: Finished composition “Comp 3008”.
+
+
+
+  27/04/2014 14:41:03: Starting composition “Comp 3009”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3009.mp4
+  
+  27/04/2014 14:43:30: Finished composition “Comp 3009”.
+
+
+
+  27/04/2014 14:43:30: Starting composition “Comp 3010”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3010.mp4
+  
+  27/04/2014 14:46:23: Finished composition “Comp 3010”.
+
+
+
+  27/04/2014 14:46:24: Starting composition “Comp 3011”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3011.mp4
+  
+  27/04/2014 14:50:29: Finished composition “Comp 3011”.
+
+
+
+  27/04/2014 14:50:29: Starting composition “Comp 3012”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3012.mp4
+  
+  27/04/2014 14:53:24: Finished composition “Comp 3012”.
+
+
+
+  27/04/2014 14:53:25: Starting composition “Comp 3013”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3013.mp4
+  
+  27/04/2014 14:58:03: Finished composition “Comp 3013”.
+
+
+
+  27/04/2014 14:58:04: Starting composition “Comp 3014”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3014.mp4
+  
+  27/04/2014 15:00:03: Finished composition “Comp 3014”.
+
+
+
+  27/04/2014 15:00:03: Starting composition “Comp 3015”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3015.mp4
+  
+  27/04/2014 15:03:46: Finished composition “Comp 3015”.
+
+
+
+  27/04/2014 15:03:47: Starting composition “Comp 3016”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3016.mp4
+  
+  27/04/2014 15:06:09: Finished composition “Comp 3016”.
+
+
+
+  27/04/2014 15:06:10: Starting composition “Comp 3017”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3017.mp4
+  
+  27/04/2014 15:08:27: Finished composition “Comp 3017”.
+
+
+
+  27/04/2014 15:08:27: Starting composition “Comp 3018”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3018.mp4
+  
+  27/04/2014 15:10:28: Finished composition “Comp 3018”.
+
+
+
+  27/04/2014 15:10:28: Starting composition “Comp 3019”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3019.mp4
+  
+  27/04/2014 15:15:20: Finished composition “Comp 3019”.
+
+
+
+  27/04/2014 15:15:20: Starting composition “Comp 3020”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div3\Comp 3020.mp4
+  
+  27/04/2014 15:19:47: Finished composition “Comp 3020”.
+
+
+
+  Total Time Elapsed: 1 Hr, 13 Min
+
+Log closed on 27/04/2014 at 15:19:48
+

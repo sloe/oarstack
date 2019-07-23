@@ -1,0 +1,144 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2018-wedw3.aep”
+
+Rendering started on 2018-06-14 at 11:11:17
+
+
+  2018-06-14 11:11:17: Starting composition “Caius W2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\Caius W2_1.mp4
+  
+  2018-06-14 11:23:02: Finished composition “Caius W2”.
+
+
+
+  2018-06-14 11:23:03: Starting composition “Caius W2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\Caius W2.mp4
+  
+  2018-06-14 11:27:46: Finished composition “Caius W2”.
+
+
+
+  2018-06-14 11:27:47: Starting composition “Clare W2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\Clare W2.mp4
+  
+  2018-06-14 11:35:30: Finished composition “Clare W2”.
+
+
+
+  2018-06-14 11:35:31: Starting composition “Clare W3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\Clare W3.mp4
+  
+  2018-06-14 11:38:04: Finished composition “Clare W3”.
+
+
+
+  2018-06-14 11:38:04: Starting composition “Darwin W2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\Darwin W2.mp4
+  
+  2018-06-14 11:42:04: Finished composition “Darwin W2”.
+
+
+
+  2018-06-14 11:42:04: Starting composition “Homerton W2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\Homerton W2.mp4
+  
+  2018-06-14 11:44:33: Finished composition “Homerton W2”.
+
+
+
+  2018-06-14 11:44:34: Starting composition “Jesus W3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\Jesus W3.mp4
+  
+  2018-06-14 11:47:54: Finished composition “Jesus W3”.
+
+
+
+  2018-06-14 11:47:55: Starting composition “Lady Margaret W2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\Lady Margaret W2.mp4
+  
+  2018-06-14 11:49:41: Finished composition “Lady Margaret W2”.
+
+
+
+  2018-06-14 11:49:41: Starting composition “Murray Edwards W2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\Murray Edwards W2.mp4
+  
+  2018-06-14 12:15:13: Finished composition “Murray Edwards W2”.
+
+
+
+  2018-06-14 12:15:13: Starting composition “Newnham W3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\Newnham W3.mp4
+  
+  2018-06-14 12:16:55: Finished composition “Newnham W3”.
+
+
+
+  2018-06-14 12:16:55: Starting composition “Pembroke W3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\Pembroke W3.mp4
+  
+  2018-06-14 12:20:08: Finished composition “Pembroke W3”.
+
+
+
+  2018-06-14 12:20:08: Starting composition “Queens W3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\Queens W3.mp4
+  
+  2018-06-14 12:24:40: Finished composition “Queens W3”.
+
+
+
+  2018-06-14 12:24:41: Starting composition “St Catharines W2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\St Catharines W2.mp4
+  
+  2018-06-14 12:30:10: Finished composition “St Catharines W2”.
+
+
+
+  2018-06-14 12:30:10: Starting composition “St Edmunds W1”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\St Edmunds W1.mp4
+  
+  2018-06-14 12:31:49: Finished composition “St Edmunds W1”.
+
+
+
+  2018-06-14 12:31:49: Starting composition “Trinity Hall W2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw3\Trinity Hall W2.mp4
+  
+  2018-06-14 12:33:53: Finished composition “Trinity Hall W2”.
+
+
+
+  Total Time Elapsed: 1 Hr, 22 Min
+
+Log closed on 2018-06-14 at 12:33:53
+

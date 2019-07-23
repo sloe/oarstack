@@ -1,0 +1,48 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2018-wedw4.aep”
+
+Rendering started on 2018-06-14 at 00:25:34
+
+
+  2018-06-14 00:25:34: Starting composition “Caius W3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Caius W3.mp4
+  
+  2018-06-14 00:34:34: Finished composition “Caius W3”.
+
+
+
+  2018-06-14 00:34:35: Starting composition “Clare W4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Clare W4.mp4
+  
+  2018-06-14 00:39:07: Finished composition “Clare W4”.
+
+
+
+  2018-06-14 00:39:08: Starting composition “Darwin W3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Darwin W3.mp4
+  
+  2018-06-14 00:45:40: Finished composition “Darwin W3”.
+
+
+
+  2018-06-14 00:45:41: Starting composition “Emmanuel W4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Emmanuel W4.mp4
+  
+  
+  Render stopped by user.
+  
+  2018-06-14 00:49:05: Finished composition “Emmanuel W4”.
+
+
+
+  Total Time Elapsed: 23 Min, 23 Sec
+
+Log closed on 2018-06-14 at 00:49:06
+

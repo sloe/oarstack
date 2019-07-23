@@ -1,0 +1,81 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2017-wedm5.aep”
+
+Rendering started on 2017-06-14 at 20:44:17
+
+
+  2017-06-14 20:44:17: Starting composition “Jesus M4”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\Jesus M4.mp4
+  
+  2017-06-14 20:48:46: Finished composition “Jesus M4”.
+
+
+
+  2017-06-14 20:48:47: Starting composition “Lady Margaret M4”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\Lady Margaret M4.mp4
+  
+  2017-06-14 20:52:17: Finished composition “Lady Margaret M4”.
+
+
+
+  2017-06-14 20:52:17: Starting composition “Lady Margaret M5”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\Lady Margaret M5.mp4
+  
+  2017-06-14 20:55:45: Finished composition “Lady Margaret M5”.
+
+
+
+  2017-06-14 20:55:45: Starting composition “Pembroke M5”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\Pembroke M5.mp4
+  
+  2017-06-14 20:59:13: Finished composition “Pembroke M5”.
+
+
+
+  2017-06-14 20:59:14: Starting composition “Peterhouse M3”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\Peterhouse M3.mp4
+  
+  2017-06-14 21:03:21: Finished composition “Peterhouse M3”.
+
+
+
+  2017-06-14 21:03:22: Starting composition “Robinson M3”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\Robinson M3.mp4
+  
+  2017-06-14 21:08:08: Finished composition “Robinson M3”.
+
+
+
+  2017-06-14 21:08:09: Starting composition “St Catharines M4”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\St Catharines M4.mp4
+  
+  2017-06-14 21:11:07: Finished composition “St Catharines M4”.
+
+
+
+  2017-06-14 21:11:08: Starting composition “Trinity Hall M3”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\Trinity Hall M3.mp4
+  
+  2017-06-14 21:15:03: Finished composition “Trinity Hall M3”.
+
+
+
+  Total Time Elapsed: 30 Min, 46 Sec
+
+Log closed on 2017-06-14 at 21:15:04
+

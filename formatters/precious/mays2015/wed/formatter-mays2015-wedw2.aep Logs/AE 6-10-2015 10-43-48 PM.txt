@@ -1,0 +1,171 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2015-wedw2.aep”
+
+Rendering started on 6/10/2015 at 10:43:48 PM
+
+
+  6/10/2015 10:43:48 PM: Starting composition “Clare W2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Clare W2.mp4
+  
+  6/10/2015 10:49:59 PM: Finished composition “Clare W2”.
+
+
+
+  6/10/2015 10:49:59 PM: Starting composition “Darwin W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Darwin W1.mp4
+  
+  6/10/2015 10:51:38 PM: Finished composition “Darwin W1”.
+
+
+
+  6/10/2015 10:51:39 PM: Starting composition “Downing W2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Downing W2.mp4
+  
+  6/10/2015 10:56:47 PM: Finished composition “Downing W2”.
+
+
+
+  6/10/2015 10:56:47 PM: Starting composition “Emmanuel W2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Emmanuel W2.mp4
+  
+  6/10/2015 10:58:38 PM: Finished composition “Emmanuel W2”.
+
+
+
+  6/10/2015 10:58:38 PM: Starting composition “Fitzwilliam W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Fitzwilliam W1.mp4
+  
+  6/10/2015 11:00:13 PM: Finished composition “Fitzwilliam W1”.
+
+
+
+  6/10/2015 11:00:13 PM: Starting composition “Homerton W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Homerton W1.mp4
+  
+  6/10/2015 11:01:57 PM: Finished composition “Homerton W1”.
+
+
+
+  6/10/2015 11:01:57 PM: Starting composition “Hughes Hall Lucy Cav W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Hughes Hall Lucy Cav W1.mp4
+  
+  6/10/2015 11:09:10 PM: Finished composition “Hughes Hall Lucy Cav W1”.
+
+
+
+  6/10/2015 11:09:10 PM: Starting composition “Jesus W2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Jesus W2.mp4
+  
+  6/10/2015 11:12:21 PM: Finished composition “Jesus W2”.
+
+
+
+  6/10/2015 11:12:21 PM: Starting composition “Kings W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Kings W1.mp4
+  
+  6/10/2015 11:14:12 PM: Finished composition “Kings W1”.
+
+
+
+  6/10/2015 11:14:12 PM: Starting composition “Lady Margaret W2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Lady Margaret W2.mp4
+  
+  6/10/2015 11:18:49 PM: Finished composition “Lady Margaret W2”.
+
+
+
+  6/10/2015 11:18:50 PM: Starting composition “Magdalene W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Magdalene W1.mp4
+  
+  6/10/2015 11:20:43 PM: Finished composition “Magdalene W1”.
+
+
+
+  6/10/2015 11:20:44 PM: Starting composition “Newnham W2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Newnham W2.mp4
+  
+  6/10/2015 11:23:23 PM: Finished composition “Newnham W2”.
+
+
+
+  6/10/2015 11:23:23 PM: Starting composition “Pembroke W2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Pembroke W2.mp4
+  
+  6/10/2015 11:27:40 PM: Finished composition “Pembroke W2”.
+
+
+
+  6/10/2015 11:27:41 PM: Starting composition “Queens W2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Queens W2.mp4
+  
+  6/10/2015 11:32:47 PM: Finished composition “Queens W2”.
+
+
+
+  6/10/2015 11:32:47 PM: Starting composition “Robinson W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Robinson W1.mp4
+  
+  6/10/2015 11:40:53 PM: Finished composition “Robinson W1”.
+
+
+
+  6/10/2015 11:40:53 PM: Starting composition “Sidney Sussex W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Sidney Sussex W1.mp4
+  
+  6/10/2015 11:42:45 PM: Finished composition “Sidney Sussex W1”.
+
+
+
+  6/10/2015 11:42:45 PM: Starting composition “Trinity Hall W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Trinity Hall W1.mp4
+  
+  6/10/2015 11:47:52 PM: Finished composition “Trinity Hall W1”.
+
+
+
+  6/10/2015 11:47:52 PM: Starting composition “Wolfson W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw2\Wolfson W1.mp4
+  
+  6/10/2015 11:53:31 PM: Finished composition “Wolfson W1”.
+
+
+
+  Total Time Elapsed: 1 Hr, 9 Min
+
+Log closed on 6/10/2015 at 11:53:32 PM
+

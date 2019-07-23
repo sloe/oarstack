@@ -1,0 +1,157 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2018-wedm5.aep”
+
+Rendering started on 2018-06-13 at 21:59:29
+
+
+  2018-06-13 21:59:30: Starting composition “Christs M3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Christs M3.mp4
+  
+After Effects warning: Audio conforming failed for the following file:  "P1018665.MP4 48000.cfa".  Perhaps due to disk space.
+   There is an error in background rendering so switching to foreground rendering after 1 frames completed out of total 274 frames. (26  ::  142)
+After Effects error: Rendering error while writing to file “\\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Christs M3.mp4”. Encoding to the file failed. Please check the encode settings and try again later. (-1610153453)
+  2018-06-13 22:15:35: Finished composition “Christs M3”.
+
+
+
+  2018-06-13 22:15:35: Starting composition “Clare M4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Clare M4.mp4
+  
+After Effects warning: Audio conforming failed for the following file:  "P1018667.MP4 48000_5.cfa".  Perhaps due to disk space.
+  2018-06-13 22:39:30: Finished composition “Clare M4”.
+
+
+
+  2018-06-13 22:39:31: Starting composition “Downing M3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Downing M3.mp4
+  
+  2018-06-13 22:41:19: Finished composition “Downing M3”.
+
+
+
+  2018-06-13 22:41:19: Starting composition “Emmanuel M4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Emmanuel M4.mp4
+  
+  2018-06-13 22:44:24: Finished composition “Emmanuel M4”.
+
+
+
+  2018-06-13 22:44:25: Starting composition “Fitzwilliam M3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Fitzwilliam M3.mp4
+  
+  2018-06-13 22:47:59: Finished composition “Fitzwilliam M3”.
+
+
+
+  2018-06-13 22:48:00: Starting composition “Jesus M4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Jesus M4.mp4
+  
+  2018-06-13 22:54:14: Finished composition “Jesus M4”.
+
+
+
+  2018-06-13 22:54:14: Starting composition “Jesus M5”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Jesus M5.mp4
+  
+  2018-06-13 22:56:16: Finished composition “Jesus M5”.
+
+
+
+  2018-06-13 22:56:17: Starting composition “Lady Margaret M4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Lady Margaret M4.mp4
+  
+  2018-06-13 22:58:58: Finished composition “Lady Margaret M4”.
+
+
+
+  2018-06-13 22:58:58: Starting composition “Lady Margaret M5”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Lady Margaret M5.mp4
+  
+  2018-06-13 23:02:50: Finished composition “Lady Margaret M5”.
+
+
+
+  2018-06-13 23:02:51: Starting composition “Magdalene M4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Magdalene M4.mp4
+  
+  2018-06-13 23:07:14: Finished composition “Magdalene M4”.
+
+
+
+  2018-06-13 23:07:15: Starting composition “Pembroke M4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Pembroke M4.mp4
+  
+  2018-06-13 23:12:35: Finished composition “Pembroke M4”.
+
+
+
+  2018-06-13 23:12:36: Starting composition “Queens M4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Queens M4.mp4
+  
+  2018-06-13 23:14:37: Finished composition “Queens M4”.
+
+
+
+  2018-06-13 23:14:37: Starting composition “Queens M5”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Queens M5.mp4
+  
+  2018-06-13 23:17:44: Finished composition “Queens M5”.
+
+
+
+  2018-06-13 23:17:45: Starting composition “Trinity Hall M3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Trinity Hall M3.mp4
+  
+  2018-06-13 23:19:08: Finished composition “Trinity Hall M3”.
+
+
+
+  2018-06-13 23:19:08: Starting composition “Trinity Hall M4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Trinity Hall M4.mp4
+  
+  2018-06-13 23:23:31: Finished composition “Trinity Hall M4”.
+
+
+
+  2018-06-13 23:23:32: Starting composition “Trinity Hall M5”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm5\Trinity Hall M5.mp4
+  
+  2018-06-13 23:27:33: Finished composition “Trinity Hall M5”.
+
+
+
+  Total Time Elapsed: 1 Hr, 28 Min
+
+Log closed on 2018-06-13 at 23:27:33
+

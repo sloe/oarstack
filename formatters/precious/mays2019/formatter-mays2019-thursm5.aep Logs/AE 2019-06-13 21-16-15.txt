@@ -1,0 +1,171 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2019-thursm5.aep”
+
+Rendering started on 2019-06-13 at 21:16:15
+
+
+  2019-06-13 21:16:15: Starting composition “Christs M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Christs M3.mp4
+  
+  2019-06-13 21:28:49: Finished composition “Christs M3”.
+
+
+
+  2019-06-13 21:28:51: Starting composition “Clare M4”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Clare M4.mp4
+  
+  2019-06-13 21:33:04: Finished composition “Clare M4”.
+
+
+
+  2019-06-13 21:33:05: Starting composition “Corpus Christi M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Corpus Christi M3.mp4
+  
+  2019-06-13 21:53:25: Finished composition “Corpus Christi M3”.
+
+
+
+  2019-06-13 21:53:26: Starting composition “Downing M4”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Downing M4.mp4
+  
+  2019-06-13 22:05:54: Finished composition “Downing M4”.
+
+
+
+  2019-06-13 22:05:55: Starting composition “Downing M5”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Downing M5.mp4
+  
+  2019-06-13 22:22:50: Finished composition “Downing M5”.
+
+
+
+  2019-06-13 22:22:51: Starting composition “Emmanuel M4”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Emmanuel M4.mp4
+  
+  2019-06-13 22:27:23: Finished composition “Emmanuel M4”.
+
+
+
+  2019-06-13 22:27:24: Starting composition “Fitzwilliam M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Fitzwilliam M3.mp4
+  
+  2019-06-13 22:42:47: Finished composition “Fitzwilliam M3”.
+
+
+
+  2019-06-13 22:42:48: Starting composition “Jesus M4”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Jesus M4.mp4
+  
+  2019-06-13 22:48:43: Finished composition “Jesus M4”.
+
+
+
+  2019-06-13 22:48:44: Starting composition “Jesus M5”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Jesus M5.mp4
+  
+  2019-06-13 22:58:42: Finished composition “Jesus M5”.
+
+
+
+  2019-06-13 22:58:43: Starting composition “Magdalene M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Magdalene M3.mp4
+  
+  2019-06-13 23:02:29: Finished composition “Magdalene M3”.
+
+
+
+  2019-06-13 23:02:30: Starting composition “Magdalene M4”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Magdalene M4.mp4
+  
+  2019-06-13 23:08:24: Finished composition “Magdalene M4”.
+
+
+
+  2019-06-13 23:08:25: Starting composition “Magdalene M5”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Magdalene M5.mp4
+  
+  2019-06-13 23:18:55: Finished composition “Magdalene M5”.
+
+
+
+  2019-06-13 23:18:56: Starting composition “Pembroke M4”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Pembroke M4.mp4
+  
+  2019-06-13 23:26:53: Finished composition “Pembroke M4”.
+
+
+
+  2019-06-13 23:26:54: Starting composition “Peterhouse M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Peterhouse M3.mp4
+  
+  2019-06-13 23:36:46: Finished composition “Peterhouse M3”.
+
+
+
+  2019-06-13 23:36:47: Starting composition “Queens M4”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Queens M4.mp4
+  
+  2019-06-13 23:41:27: Finished composition “Queens M4”.
+
+
+
+  2019-06-13 23:41:28: Starting composition “Queens M5”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Queens M5.mp4
+  
+  2019-06-13 23:47:25: Finished composition “Queens M5”.
+
+
+
+  2019-06-13 23:47:26: Starting composition “Selwyn M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Selwyn M3.mp4
+  
+  2019-06-14 00:00:12: Finished composition “Selwyn M3”.
+
+
+
+  2019-06-14 00:00:13: Starting composition “Trinity Hall M4”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm5\Trinity Hall M4.mp4
+  
+  2019-06-14 00:10:36: Finished composition “Trinity Hall M4”.
+
+
+
+  Total Time Elapsed: 2 Hr, 54 Min
+
+Log closed on 2019-06-14 at 00:10:37
+

@@ -1,0 +1,171 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2019-thursm2.aep”
+
+Rendering started on 16/06/2019 at 00:40:29
+
+
+  16/06/2019 00:40:29: Starting composition “Caius M2”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Caius M2.mp4
+  
+  16/06/2019 00:44:56: Finished composition “Caius M2”.
+
+
+
+  16/06/2019 00:44:56: Starting composition “Churchill M1”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Churchill M1.mp4
+  
+  16/06/2019 00:51:15: Finished composition “Churchill M1”.
+
+
+
+  16/06/2019 00:51:15: Starting composition “Clare M2”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Clare M2.mp4
+  
+  16/06/2019 00:57:43: Finished composition “Clare M2”.
+
+
+
+  16/06/2019 00:57:43: Starting composition “Corpus Christi M1”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Corpus Christi M1.mp4
+  
+  16/06/2019 01:01:15: Finished composition “Corpus Christi M1”.
+
+
+
+  16/06/2019 01:01:15: Starting composition “Darwin M1”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Darwin M1.mp4
+  
+  16/06/2019 01:03:40: Finished composition “Darwin M1”.
+
+
+
+  16/06/2019 01:03:40: Starting composition “Downing M2”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Downing M2.mp4
+  
+  16/06/2019 01:08:46: Finished composition “Downing M2”.
+
+
+
+  16/06/2019 01:08:46: Starting composition “Emmanuel M2”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Emmanuel M2.mp4
+  
+  16/06/2019 01:31:35: Finished composition “Emmanuel M2”.
+
+
+
+  16/06/2019 01:31:36: Starting composition “First and Third M2”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\First and Third M2.mp4
+  
+  16/06/2019 01:36:46: Finished composition “First and Third M2”.
+
+
+
+  16/06/2019 01:36:46: Starting composition “Fitzwilliam M1”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Fitzwilliam M1.mp4
+  
+  16/06/2019 01:40:35: Finished composition “Fitzwilliam M1”.
+
+
+
+  16/06/2019 01:40:36: Starting composition “Girton M1”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Girton M1.mp4
+  
+  16/06/2019 01:43:35: Finished composition “Girton M1”.
+
+
+
+  16/06/2019 01:43:35: Starting composition “Homerton M1”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Homerton M1.mp4
+  
+  16/06/2019 01:46:24: Finished composition “Homerton M1”.
+
+
+
+  16/06/2019 01:46:25: Starting composition “Hughes Hall M1”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Hughes Hall M1.mp4
+  
+  16/06/2019 01:50:37: Finished composition “Hughes Hall M1”.
+
+
+
+  16/06/2019 01:50:37: Starting composition “Jesus M2”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Jesus M2.mp4
+  
+  16/06/2019 01:56:17: Finished composition “Jesus M2”.
+
+
+
+  16/06/2019 01:56:18: Starting composition “Pembroke M2”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Pembroke M2.mp4
+  
+  16/06/2019 02:02:03: Finished composition “Pembroke M2”.
+
+
+
+  16/06/2019 02:02:03: Starting composition “Sidney Sussex M1”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Sidney Sussex M1.mp4
+  
+  16/06/2019 02:05:11: Finished composition “Sidney Sussex M1”.
+
+
+
+  16/06/2019 02:05:11: Starting composition “St Catharines M1”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\St Catharines M1.mp4
+  
+  16/06/2019 02:09:20: Finished composition “St Catharines M1”.
+
+
+
+  16/06/2019 02:09:20: Starting composition “St Edmunds M1”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\St Edmunds M1.mp4
+  
+  16/06/2019 02:13:02: Finished composition “St Edmunds M1”.
+
+
+
+  16/06/2019 02:13:02: Starting composition “Trinity Hall M1”.
+
+
+  Output To: \\service\oarstack\oarstack\primary\derived\mays2019\thurs\divm2\Trinity Hall M1.mp4
+  
+  16/06/2019 02:16:41: Finished composition “Trinity Hall M1”.
+
+
+
+  Total Time Elapsed: 1 Hr, 36 Min
+
+Log closed on 16/06/2019 at 02:16:41
+

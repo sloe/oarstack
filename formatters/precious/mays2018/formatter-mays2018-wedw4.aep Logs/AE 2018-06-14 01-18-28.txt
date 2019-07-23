@@ -1,0 +1,162 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2018-wedw4.aep”
+
+Rendering started on 2018-06-14 at 01:18:28
+
+
+  2018-06-14 01:18:28: Starting composition “Clare W4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Clare W4.mp4
+  
+  2018-06-14 01:21:41: Finished composition “Clare W4”.
+
+
+
+  2018-06-14 01:21:41: Starting composition “Darwin W3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Darwin W3.mp4
+  
+  2018-06-14 01:26:52: Finished composition “Darwin W3”.
+
+
+
+  2018-06-14 01:26:52: Starting composition “Emmanuel W4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Emmanuel W4.mp4
+  
+  2018-06-14 01:30:07: Finished composition “Emmanuel W4”.
+
+
+
+  2018-06-14 01:30:07: Starting composition “Fitzwilliam W2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Fitzwilliam W2.mp4
+  
+  2018-06-14 01:32:55: Finished composition “Fitzwilliam W2”.
+
+
+
+  2018-06-14 01:32:55: Starting composition “Homerton W3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Homerton W3.mp4
+  
+  2018-06-14 01:36:00: Finished composition “Homerton W3”.
+
+
+
+  2018-06-14 01:36:00: Starting composition “Lady Margaret W3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Lady Margaret W3.mp4
+  
+  2018-06-14 01:38:17: Finished composition “Lady Margaret W3”.
+
+
+
+  2018-06-14 01:38:17: Starting composition “Lucy Cavendish W2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Lucy Cavendish W2.mp4
+  
+  2018-06-14 01:40:12: Finished composition “Lucy Cavendish W2”.
+
+
+
+  2018-06-14 01:40:13: Starting composition “Magdalene W2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Magdalene W2.mp4
+  
+  2018-06-14 01:43:59: Finished composition “Magdalene W2”.
+
+
+
+  2018-06-14 01:44:00: Starting composition “Pembroke W4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Pembroke W4.mp4
+  
+  2018-06-14 01:50:34: Finished composition “Pembroke W4”.
+
+
+
+  2018-06-14 01:50:39: Starting composition “Queens W3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Queens W3.mp4
+  
+  2018-06-14 01:53:23: Finished composition “Queens W3”.
+
+
+
+  2018-06-14 01:53:24: Starting composition “Queens W4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Queens W4.mp4
+  
+  2018-06-14 02:00:08: Finished composition “Queens W4”.
+
+
+
+  2018-06-14 02:00:09: Starting composition “Sidney Sussex W2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Sidney Sussex W2.mp4
+  
+  2018-06-14 02:02:25: Finished composition “Sidney Sussex W2”.
+
+
+
+  2018-06-14 02:02:26: Starting composition “St Catharines W3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\St Catharines W3.mp4
+  
+  2018-06-14 02:04:41: Finished composition “St Catharines W3”.
+
+
+
+  2018-06-14 02:04:41: Starting composition “St Catharines W4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\St Catharines W4.mp4
+  
+  2018-06-14 02:09:13: Finished composition “St Catharines W4”.
+
+
+
+  2018-06-14 02:09:14: Starting composition “Trinity Hall W3”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Trinity Hall W3.mp4
+  
+  2018-06-14 02:14:42: Finished composition “Trinity Hall W3”.
+
+
+
+  2018-06-14 02:14:43: Starting composition “Trinity Hall W4”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Trinity Hall W4.mp4
+  
+  2018-06-14 02:20:08: Finished composition “Trinity Hall W4”.
+
+
+
+  2018-06-14 02:20:08: Starting composition “Wolfson W2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divw4\Wolfson W2.mp4
+  
+  2018-06-14 02:25:04: Finished composition “Wolfson W2”.
+
+
+
+  Total Time Elapsed: 1 Hr, 6 Min
+
+Log closed on 2018-06-14 at 02:25:04
+

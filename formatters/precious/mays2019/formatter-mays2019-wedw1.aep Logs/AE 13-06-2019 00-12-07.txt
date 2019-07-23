@@ -1,0 +1,81 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2019-wedw1.aep”
+
+Rendering started on 13/06/2019 at 00:12:07
+
+
+  13/06/2019 00:12:07: Starting composition “Christs W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\divw1\Christs W1.mp4
+  
+  13/06/2019 00:19:49: Finished composition “Christs W1”.
+
+
+
+  13/06/2019 00:19:50: Starting composition “Churchill W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\divw1\Churchill W1.mp4
+  
+  13/06/2019 00:22:09: Finished composition “Churchill W1”.
+
+
+
+  13/06/2019 00:22:09: Starting composition “Clare W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\divw1\Clare W1.mp4
+  
+  13/06/2019 00:24:17: Finished composition “Clare W1”.
+
+
+
+  13/06/2019 00:24:17: Starting composition “Downing W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\divw1\Downing W1.mp4
+  
+  13/06/2019 00:26:16: Finished composition “Downing W1”.
+
+
+
+  13/06/2019 00:26:17: Starting composition “Emmanuel W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\divw1\Emmanuel W1.mp4
+  
+  13/06/2019 00:28:38: Finished composition “Emmanuel W1”.
+
+
+
+  13/06/2019 00:28:39: Starting composition “First and Third W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\divw1\First and Third W1.mp4
+  
+  13/06/2019 00:30:54: Finished composition “First and Third W1”.
+
+
+
+  13/06/2019 00:30:55: Starting composition “Fitzwilliam W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\divw1\Fitzwilliam W1.mp4
+  
+  13/06/2019 00:35:44: Finished composition “Fitzwilliam W1”.
+
+
+
+  13/06/2019 00:35:45: Starting composition “Girton W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\divw1\Girton W1.mp4
+  
+  13/06/2019 00:37:34: Finished composition “Girton W1”.
+
+
+
+  Total Time Elapsed: 25 Min, 26 Sec
+
+Log closed on 13/06/2019 at 00:37:34
+

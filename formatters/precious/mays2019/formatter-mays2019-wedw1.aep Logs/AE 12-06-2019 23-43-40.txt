@@ -1,0 +1,22 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2019-wedw1.aep”
+
+Rendering started on 12/06/2019 at 23:43:40
+
+
+  12/06/2019 23:43:40: Starting composition “Caius W1”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2019\wed\divw1\Caius W1.mp4
+  
+  12/06/2019 23:50:30: Finished composition “Caius W1”.
+
+
+
+  12/06/2019 23:50:31: Starting composition “Christs W1”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2019\wed\divw1\Christs W1.mp4
+  
+  
+  Render stopped by user.
+  

@@ -1,0 +1,120 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2018-wedm4.aep”
+
+Rendering started on 2018-06-14 at 10:55:51
+
+
+  2018-06-14 10:55:51: Starting composition “Anglia Ruskin M1”.
+
+
+  Output To: D:\oarstack\primary\derived\mays2018\wed\divm4\Anglia Ruskin M1.mp4
+  
+  2018-06-14 10:56:43: Finished composition “Anglia Ruskin M1”.
+
+
+
+  2018-06-14 10:56:43: Starting composition “Caius M3”.
+
+
+  Output To: D:\oarstack\primary\derived\mays2018\wed\divm4\Caius M3.mp4
+  
+  2018-06-14 10:57:58: Finished composition “Caius M3”.
+
+
+
+  2018-06-14 10:57:58: Starting composition “Churchill M3”.
+
+
+  Output To: D:\oarstack\primary\derived\mays2018\wed\divm4\Churchill M3.mp4
+  
+  2018-06-14 10:59:15: Finished composition “Churchill M3”.
+
+
+
+  2018-06-14 10:59:15: Starting composition “Clare Hall M1”.
+
+
+  Output To: D:\oarstack\primary\derived\mays2018\wed\divm4\Clare Hall M1.mp4
+  
+  2018-06-14 11:01:48: Finished composition “Clare Hall M1”.
+
+
+
+  2018-06-14 11:01:49: Starting composition “Darwin M2”.
+
+
+  Output To: D:\oarstack\primary\derived\mays2018\wed\divm4\Darwin M2.mp4
+  
+  2018-06-14 11:02:49: Finished composition “Darwin M2”.
+
+
+
+  2018-06-14 11:02:50: Starting composition “Emmanuel M3”.
+
+
+  Output To: D:\oarstack\primary\derived\mays2018\wed\divm4\Emmanuel M3.mp4
+  
+  2018-06-14 11:05:08: Finished composition “Emmanuel M3”.
+
+
+
+  2018-06-14 11:05:08: Starting composition “First and Third M4”.
+
+
+  Output To: D:\oarstack\primary\derived\mays2018\wed\divm4\First and Third M4.mp4
+  
+  2018-06-14 11:07:30: Finished composition “First and Third M4”.
+
+
+
+  2018-06-14 11:07:31: Starting composition “Girton M2”.
+
+
+  Output To: D:\oarstack\primary\derived\mays2018\wed\divm4\Girton M2.mp4
+  
+  2018-06-14 11:08:47: Finished composition “Girton M2”.
+
+
+
+  2018-06-14 11:08:48: Starting composition “Homerton M2”.
+
+
+  Output To: D:\oarstack\primary\derived\mays2018\wed\divm4\Homerton M2.mp4
+  
+  2018-06-14 11:09:49: Finished composition “Homerton M2”.
+
+
+
+  2018-06-14 11:09:50: Starting composition “Hughes Hall M2”.
+
+
+  Output To: D:\oarstack\primary\derived\mays2018\wed\divm4\Hughes Hall M2.mp4
+  
+  2018-06-14 11:10:53: Finished composition “Hughes Hall M2”.
+
+
+
+  2018-06-14 11:10:53: Starting composition “Kings M2”.
+
+
+  Output To: D:\oarstack\primary\derived\mays2018\wed\divm4\Kings M2.mp4
+  
+  2018-06-14 11:11:55: Finished composition “Kings M2”.
+
+
+
+  2018-06-14 11:11:56: Starting composition “Magdalene M3”.
+
+
+  Output To: D:\oarstack\primary\derived\mays2018\wed\divm4\Magdalene M3.mp4
+  
+  
+  Render stopped by user.
+  
+  2018-06-14 11:12:19: Finished composition “Magdalene M3”.
+
+
+
+  Total Time Elapsed: 16 Min, 28 Sec
+
+Log closed on 2018-06-14 at 11:12:20
+

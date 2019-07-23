@@ -1,0 +1,54 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2015-wedw4.aep”
+
+Rendering started on 6/10/2015 at 7:43:30 PM
+
+
+  6/10/2015 7:43:30 PM: Starting composition “Jesus W4”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw4\Jesus W4.mp4
+  
+  6/10/2015 7:46:44 PM: Finished composition “Jesus W4”.
+
+
+
+  6/10/2015 7:46:44 PM: Starting composition “Kings W2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw4\Kings W2.mp4
+  
+  6/10/2015 7:49:10 PM: Finished composition “Kings W2”.
+
+
+
+  6/10/2015 7:49:10 PM: Starting composition “Magdalene M4”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw4\Magdalene M4.mp4
+  
+  6/10/2015 7:54:32 PM: Finished composition “Magdalene M4”.
+
+
+
+  6/10/2015 7:54:33 PM: Starting composition “Murray Edwards W3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw4\Murray Edwards W3.mp4
+  
+  6/10/2015 7:55:44 PM: Finished composition “Murray Edwards W3”.
+
+
+
+  6/10/2015 7:55:44 PM: Starting composition “Sidney Sussex W2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw4\Sidney Sussex W2.mp4
+  
+  6/10/2015 8:01:35 PM: Finished composition “Sidney Sussex W2”.
+
+
+
+  Total Time Elapsed: 18 Min, 5 Sec
+
+Log closed on 6/10/2015 at 8:01:35 PM
+

@@ -1,0 +1,171 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2018-wedm2.aep”
+
+Rendering started on 2018-06-16 at 14:41:32
+
+
+  2018-06-16 14:41:32: Starting composition “Caius M2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Caius M2.mp4
+  
+  2018-06-16 14:43:05: Finished composition “Caius M2”.
+
+
+
+  2018-06-16 14:43:06: Starting composition “Clare M2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Clare M2.mp4
+  
+  2018-06-16 14:46:24: Finished composition “Clare M2”.
+
+
+
+  2018-06-16 14:46:25: Starting composition “Corpus Christi M1”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Corpus Christi M1.mp4
+  
+  2018-06-16 14:47:58: Finished composition “Corpus Christi M1”.
+
+
+
+  2018-06-16 14:47:58: Starting composition “Darwin M1”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Darwin M1.mp4
+  
+  2018-06-16 14:50:06: Finished composition “Darwin M1”.
+
+
+
+  2018-06-16 14:50:06: Starting composition “Downing M2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Downing M2.mp4
+  
+  2018-06-16 14:51:39: Finished composition “Downing M2”.
+
+
+
+  2018-06-16 14:51:39: Starting composition “First and Third M2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\First and Third M2.mp4
+  
+  2018-06-16 14:53:06: Finished composition “First and Third M2”.
+
+
+
+  2018-06-16 14:53:07: Starting composition “Fitzwilliam M1”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Fitzwilliam M1.mp4
+  
+  2018-06-16 14:54:28: Finished composition “Fitzwilliam M1”.
+
+
+
+  2018-06-16 14:54:29: Starting composition “Girton M1”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Girton M1.mp4
+  
+  2018-06-16 14:57:19: Finished composition “Girton M1”.
+
+
+
+  2018-06-16 14:57:20: Starting composition “Homerton M1”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Homerton M1.mp4
+  
+  2018-06-16 14:58:35: Finished composition “Homerton M1”.
+
+
+
+  2018-06-16 14:58:36: Starting composition “Hughes Hall M1”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Hughes Hall M1.mp4
+  
+  2018-06-16 15:00:28: Finished composition “Hughes Hall M1”.
+
+
+
+  2018-06-16 15:00:28: Starting composition “Jesus M2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Jesus M2.mp4
+  
+  2018-06-16 15:02:23: Finished composition “Jesus M2”.
+
+
+
+  2018-06-16 15:02:24: Starting composition “Pembroke M2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Pembroke M2.mp4
+  
+  2018-06-16 15:03:35: Finished composition “Pembroke M2”.
+
+
+
+  2018-06-16 15:03:36: Starting composition “Queens M2”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Queens M2.mp4
+  
+  2018-06-16 15:07:35: Finished composition “Queens M2”.
+
+
+
+  2018-06-16 15:07:36: Starting composition “Sidney Sussex M1”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Sidney Sussex M1.mp4
+  
+  2018-06-16 15:09:19: Finished composition “Sidney Sussex M1”.
+
+
+
+  2018-06-16 15:09:20: Starting composition “St Catharines M1”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\St Catharines M1.mp4
+  
+  2018-06-16 15:10:38: Finished composition “St Catharines M1”.
+
+
+
+  2018-06-16 15:10:39: Starting composition “St Edmunds M1”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\St Edmunds M1.mp4
+  
+  2018-06-16 15:12:21: Finished composition “St Edmunds M1”.
+
+
+
+  2018-06-16 15:12:21: Starting composition “Trinity Hall M1”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Trinity Hall M1.mp4
+  
+  2018-06-16 15:14:15: Finished composition “Trinity Hall M1”.
+
+
+
+  2018-06-16 15:14:16: Starting composition “Wolfson M1”.
+
+
+  Output To: \\fs\oarstack\oarstack\primary\derived\mays2018\wed\divm2\Wolfson M1.mp4
+  
+  2018-06-16 15:16:00: Finished composition “Wolfson M1”.
+
+
+
+  Total Time Elapsed: 34 Min, 28 Sec
+
+Log closed on 2018-06-16 at 15:16:01
+

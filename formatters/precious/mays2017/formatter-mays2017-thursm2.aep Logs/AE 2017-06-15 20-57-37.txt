@@ -1,0 +1,171 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2017-thursm2.aep”
+
+Rendering started on 2017-06-15 at 20:57:37
+
+
+  2017-06-15 20:57:37: Starting composition “Caius M2”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Caius M2.mp4
+  
+  2017-06-15 21:06:49: Finished composition “Caius M2”.
+
+
+
+  2017-06-15 21:06:50: Starting composition “Clare M2”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Clare M2.mp4
+  
+  2017-06-15 21:09:51: Finished composition “Clare M2”.
+
+
+
+  2017-06-15 21:09:52: Starting composition “Corpus Christi M1”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Corpus Christi M1.mp4
+  
+  2017-06-15 21:12:25: Finished composition “Corpus Christi M1”.
+
+
+
+  2017-06-15 21:12:25: Starting composition “Darwin M1”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Darwin M1.mp4
+  
+  2017-06-15 21:14:46: Finished composition “Darwin M1”.
+
+
+
+  2017-06-15 21:14:47: Starting composition “Downing M2”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Downing M2.mp4
+  
+  2017-06-15 21:18:55: Finished composition “Downing M2”.
+
+
+
+  2017-06-15 21:18:56: Starting composition “First and Third M2”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\First and Third M2.mp4
+  
+  2017-06-15 21:21:40: Finished composition “First and Third M2”.
+
+
+
+  2017-06-15 21:21:40: Starting composition “Fitzwilliam M1”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Fitzwilliam M1.mp4
+  
+  2017-06-15 21:24:00: Finished composition “Fitzwilliam M1”.
+
+
+
+  2017-06-15 21:24:01: Starting composition “Girton M1”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Girton M1.mp4
+  
+  2017-06-15 21:27:23: Finished composition “Girton M1”.
+
+
+
+  2017-06-15 21:27:23: Starting composition “Homerton M1”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Homerton M1.mp4
+  
+  2017-06-15 21:29:04: Finished composition “Homerton M1”.
+
+
+
+  2017-06-15 21:29:04: Starting composition “Hughes Hall M1”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Hughes Hall M1.mp4
+  
+  2017-06-15 21:31:14: Finished composition “Hughes Hall M1”.
+
+
+
+  2017-06-15 21:31:15: Starting composition “Jesus M2”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Jesus M2.mp4
+  
+  2017-06-15 21:33:24: Finished composition “Jesus M2”.
+
+
+
+  2017-06-15 21:33:24: Starting composition “Lady Margaret M2”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Lady Margaret M2.mp4
+  
+  2017-06-15 21:35:07: Finished composition “Lady Margaret M2”.
+
+
+
+  2017-06-15 21:35:07: Starting composition “Pembroke M2”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Pembroke M2.mp4
+  
+  2017-06-15 21:38:44: Finished composition “Pembroke M2”.
+
+
+
+  2017-06-15 21:38:44: Starting composition “Queens M2”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Queens M2.mp4
+  
+  2017-06-15 21:44:46: Finished composition “Queens M2”.
+
+
+
+  2017-06-15 21:44:46: Starting composition “Sidney Sussex M1”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Sidney Sussex M1.mp4
+  
+  2017-06-15 21:47:37: Finished composition “Sidney Sussex M1”.
+
+
+
+  2017-06-15 21:47:38: Starting composition “St Edmunds M1”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\St Edmunds M1.mp4
+  
+  2017-06-15 21:50:19: Finished composition “St Edmunds M1”.
+
+
+
+  2017-06-15 21:50:19: Starting composition “Trinity Hall M1”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Trinity Hall M1.mp4
+  
+  2017-06-15 21:52:30: Finished composition “Trinity Hall M1”.
+
+
+
+  2017-06-15 21:52:31: Starting composition “Wolfson M1”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\thurs\divm2\Wolfson M1.mp4
+  
+  2017-06-15 21:54:31: Finished composition “Wolfson M1”.
+
+
+
+  Total Time Elapsed: 56 Min, 53 Sec
+
+Log closed on 2017-06-15 at 21:54:31
+

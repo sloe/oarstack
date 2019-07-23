@@ -1,0 +1,90 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2019-thursw5.aep”
+
+Rendering started on 13/06/2019 at 20:43:20
+
+
+  13/06/2019 20:43:20: Starting composition “Churchill W2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divw5\Churchill W2.mp4
+  
+  13/06/2019 20:54:04: Finished composition “Churchill W2”.
+
+
+
+  13/06/2019 20:54:05: Starting composition “Corpus Christi W2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divw5\Corpus Christi W2.mp4
+  
+  13/06/2019 21:08:00: Finished composition “Corpus Christi W2”.
+
+
+
+  13/06/2019 21:08:00: Starting composition “Downing W3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divw5\Downing W3.mp4
+  
+  13/06/2019 21:32:21: Finished composition “Downing W3”.
+
+
+
+  13/06/2019 21:32:22: Starting composition “First and Third W2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divw5\First and Third W2.mp4
+  
+  13/06/2019 22:19:24: Finished composition “First and Third W2”.
+
+
+
+  13/06/2019 22:19:25: Starting composition “Fitzwilliam W3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divw5\Fitzwilliam W3.mp4
+  
+  13/06/2019 22:27:03: Finished composition “Fitzwilliam W3”.
+
+
+
+  13/06/2019 22:27:03: Starting composition “Girton W2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divw5\Girton W2.mp4
+  
+  13/06/2019 22:34:40: Finished composition “Girton W2”.
+
+
+
+  13/06/2019 22:34:41: Starting composition “Jesus W4”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divw5\Jesus W4.mp4
+  
+  13/06/2019 22:47:55: Finished composition “Jesus W4”.
+
+
+
+  13/06/2019 22:47:55: Starting composition “Robinson W2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divw5\Robinson W2.mp4
+  
+  13/06/2019 23:00:05: Finished composition “Robinson W2”.
+
+
+
+  13/06/2019 23:00:06: Starting composition “St Edmunds W2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divw5\St Edmunds W2.mp4
+  
+  13/06/2019 23:07:12: Finished composition “St Edmunds W2”.
+
+
+
+  Total Time Elapsed: 2 Hr, 23 Min
+
+Log closed on 13/06/2019 at 23:07:13
+

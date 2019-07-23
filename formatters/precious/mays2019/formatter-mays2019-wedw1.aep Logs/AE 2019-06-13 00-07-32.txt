@@ -1,0 +1,99 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2019-wedw1.aep”
+
+Rendering started on 2019-06-13 at 00:07:32
+
+
+  2019-06-13 00:07:32: Starting composition “Caius W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\wedw1\Caius W1.mp4
+  
+  2019-06-13 00:09:54: Finished composition “Caius W1”.
+
+
+
+  2019-06-13 00:09:55: Starting composition “Homerton W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\wedw1\Homerton W1.mp4
+  
+  2019-06-13 00:13:50: Finished composition “Homerton W1”.
+
+
+
+  2019-06-13 00:13:51: Starting composition “Jesus W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\wedw1\Jesus W1.mp4
+  
+  2019-06-13 00:17:27: Finished composition “Jesus W1”.
+
+
+
+  2019-06-13 00:17:28: Starting composition “Lady Margaret W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\wedw1\Lady Margaret W1.mp4
+  
+  2019-06-13 00:20:18: Finished composition “Lady Margaret W1”.
+
+
+
+  2019-06-13 00:20:19: Starting composition “Newnham W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\wedw1\Newnham W1.mp4
+  
+  2019-06-13 00:22:23: Finished composition “Newnham W1”.
+
+
+
+  2019-06-13 00:22:24: Starting composition “Pembroke W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\wedw1\Pembroke W1.mp4
+  
+  2019-06-13 00:28:30: Finished composition “Pembroke W1”.
+
+
+
+  2019-06-13 00:28:31: Starting composition “Peterhouse W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\wedw1\Peterhouse W1.mp4
+  
+  2019-06-13 00:30:40: Finished composition “Peterhouse W1”.
+
+
+
+  2019-06-13 00:30:41: Starting composition “Queens W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\wedw1\Queens W1.mp4
+  
+  2019-06-13 00:34:17: Finished composition “Queens W1”.
+
+
+
+  2019-06-13 00:34:17: Starting composition “St Catharines W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\wedw1\St Catharines W1.mp4
+  
+  2019-06-13 00:36:26: Finished composition “St Catharines W1”.
+
+
+
+  2019-06-13 00:36:27: Starting composition “Trinity Hall W1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\wed\wedw1\Trinity Hall W1.mp4
+  
+  2019-06-13 00:43:48: Finished composition “Trinity Hall W1”.
+
+
+
+  Total Time Elapsed: 36 Min, 16 Sec
+
+Log closed on 2019-06-13 at 00:43:49
+

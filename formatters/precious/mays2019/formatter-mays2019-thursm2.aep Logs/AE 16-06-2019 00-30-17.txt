@@ -1,0 +1,30 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2019-thursm2.aep”
+
+Rendering started on 16/06/2019 at 00:30:17
+
+
+  16/06/2019 00:30:17: Starting composition “Caius M2”.
+
+
+  Output To: D:\oarstack\primary\derived\mays2019\thurs\divm2\Caius M2.mp4
+  
+  16/06/2019 00:34:10: Finished composition “Caius M2”.
+
+
+
+  16/06/2019 00:34:10: Starting composition “Churchill M1”.
+
+
+  Output To: D:\oarstack\primary\derived\mays2019\thurs\divm2\Churchill M1.mp4
+  
+  
+  Render stopped by user.
+  
+  16/06/2019 00:38:51: Finished composition “Churchill M1”.
+
+
+
+  Total Time Elapsed: 8 Min, 31 Sec
+
+Log closed on 16/06/2019 at 00:38:51
+

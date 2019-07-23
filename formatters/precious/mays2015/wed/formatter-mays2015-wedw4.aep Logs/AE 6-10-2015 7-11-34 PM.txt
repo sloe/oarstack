@@ -1,0 +1,84 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2015-wedw4.aep”
+
+Rendering started on 6/10/2015 at 7:11:34 PM
+
+
+  6/10/2015 7:11:34 PM: Starting composition “Christs W3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw4\Christs W3.mp4
+  
+  6/10/2015 7:15:59 PM: Finished composition “Christs W3”.
+
+
+
+  6/10/2015 7:16:00 PM: Starting composition “Churchill W2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw4\Churchill W2.mp4
+  
+  6/10/2015 7:19:53 PM: Finished composition “Churchill W2”.
+
+
+
+  6/10/2015 7:19:54 PM: Starting composition “Clare Hall W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw4\Clare Hall W1.mp4
+  
+  6/10/2015 7:21:43 PM: Finished composition “Clare Hall W1”.
+
+
+
+  6/10/2015 7:21:43 PM: Starting composition “Clare W3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw4\Clare W3.mp4
+  
+  6/10/2015 7:23:03 PM: Finished composition “Clare W3”.
+
+
+
+  6/10/2015 7:23:04 PM: Starting composition “Clare W4”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw4\Clare W4.mp4
+  
+  6/10/2015 7:27:20 PM: Finished composition “Clare W4”.
+
+
+
+  6/10/2015 7:27:21 PM: Starting composition “Darwin W2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw4\Darwin W2.mp4
+  
+  6/10/2015 7:30:58 PM: Finished composition “Darwin W2”.
+
+
+
+  6/10/2015 7:30:59 PM: Starting composition “Hughes Hall Lucy Cav W2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw4\Hughes Hall Lucy Cav W2.mp4
+  
+  6/10/2015 7:32:59 PM: Finished composition “Hughes Hall Lucy Cav W2”.
+
+
+
+  6/10/2015 7:33:00 PM: Starting composition “Input Comp”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divw4\Input Comp.mp4
+  
+  
+  Render stopped by user.
+  
+  6/10/2015 7:43:29 PM: Finished composition “Input Comp”.
+
+
+
+  Total Time Elapsed: 31 Min, 37 Sec
+
+Log closed on 6/10/2015 at 7:43:29 PM
+

@@ -1,0 +1,171 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2015-wedm4.aep”
+
+Rendering started on 6/10/2015 at 8:12:17 PM
+
+
+  6/10/2015 8:12:18 PM: Starting composition “Anglia Ruskin M1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Anglia Ruskin M1.mp4
+  
+  6/10/2015 8:15:38 PM: Finished composition “Anglia Ruskin M1”.
+
+
+
+  6/10/2015 8:15:38 PM: Starting composition “Caius M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Caius M3.mp4
+  
+  6/10/2015 8:17:46 PM: Finished composition “Caius M3”.
+
+
+
+  6/10/2015 8:17:47 PM: Starting composition “Christs M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Christs M3.mp4
+  
+  6/10/2015 8:21:32 PM: Finished composition “Christs M3”.
+
+
+
+  6/10/2015 8:21:32 PM: Starting composition “Clare M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Clare M3.mp4
+  
+  6/10/2015 8:22:44 PM: Finished composition “Clare M3”.
+
+
+
+  6/10/2015 8:22:44 PM: Starting composition “Corpus Christi M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Corpus Christi M2.mp4
+  
+  6/10/2015 8:25:21 PM: Finished composition “Corpus Christi M2”.
+
+
+
+  6/10/2015 8:25:22 PM: Starting composition “Darwin M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Darwin M2.mp4
+  
+  6/10/2015 8:26:29 PM: Finished composition “Darwin M2”.
+
+
+
+  6/10/2015 8:26:30 PM: Starting composition “Downing M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Downing M3.mp4
+  
+  6/10/2015 8:27:24 PM: Finished composition “Downing M3”.
+
+
+
+  6/10/2015 8:27:25 PM: Starting composition “Fitzwilliam M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Fitzwilliam M2.mp4
+  
+  6/10/2015 8:28:31 PM: Finished composition “Fitzwilliam M2”.
+
+
+
+  6/10/2015 8:28:32 PM: Starting composition “Homerton M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Homerton M2.mp4
+  
+  6/10/2015 8:31:38 PM: Finished composition “Homerton M2”.
+
+
+
+  6/10/2015 8:31:39 PM: Starting composition “Hughes Hall M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Hughes Hall M2.mp4
+  
+  6/10/2015 8:34:24 PM: Finished composition “Hughes Hall M2”.
+
+
+
+  6/10/2015 8:34:25 PM: Starting composition “Kings M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Kings M2.mp4
+  
+  6/10/2015 8:37:38 PM: Finished composition “Kings M2”.
+
+
+
+  6/10/2015 8:37:39 PM: Starting composition “Magdalene M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Magdalene M3.mp4
+  
+  6/10/2015 8:41:51 PM: Finished composition “Magdalene M3”.
+
+
+
+  6/10/2015 8:41:52 PM: Starting composition “Queens M4”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Queens M4.mp4
+  
+  6/10/2015 8:45:19 PM: Finished composition “Queens M4”.
+
+
+
+  6/10/2015 8:45:20 PM: Starting composition “Selwyn M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Selwyn M3.mp4
+  
+  6/10/2015 8:48:21 PM: Finished composition “Selwyn M3”.
+
+
+
+  6/10/2015 8:48:22 PM: Starting composition “Sidney Sussex M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Sidney Sussex M2.mp4
+  
+  6/10/2015 8:52:57 PM: Finished composition “Sidney Sussex M2”.
+
+
+
+  6/10/2015 8:52:58 PM: Starting composition “St Catharines M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\St Catharines M3.mp4
+  
+  6/10/2015 8:56:59 PM: Finished composition “St Catharines M3”.
+
+
+
+  6/10/2015 8:57:00 PM: Starting composition “St Edmunds M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\St Edmunds M2.mp4
+  
+  6/10/2015 9:00:54 PM: Finished composition “St Edmunds M2”.
+
+
+
+  6/10/2015 9:00:54 PM: Starting composition “Wolfson M2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm4\Wolfson M2.mp4
+  
+  6/10/2015 9:05:42 PM: Finished composition “Wolfson M2”.
+
+
+
+  Total Time Elapsed: 53 Min, 25 Sec
+
+Log closed on 6/10/2015 at 9:05:43 PM
+

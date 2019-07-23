@@ -1,0 +1,171 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2019-thursm3.aep”
+
+Rendering started on 2019-06-14 at 23:47:37
+
+
+  2019-06-14 23:47:37: Starting composition “Churchill M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Churchill M2.mp4
+  
+  2019-06-14 23:50:41: Finished composition “Churchill M2”.
+
+
+
+  2019-06-14 23:50:41: Starting composition “Clare Hall M1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Clare Hall M1.mp4
+  
+  2019-06-14 23:56:06: Finished composition “Clare Hall M1”.
+
+
+
+  2019-06-14 23:56:08: Starting composition “Clare M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Clare M2.mp4
+  
+  2019-06-14 23:59:44: Finished composition “Clare M2”.
+
+
+
+  2019-06-14 23:59:45: Starting composition “Clare M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Clare M3.mp4
+  
+  2019-06-15 00:07:08: Finished composition “Clare M3”.
+
+
+
+  2019-06-15 00:07:09: Starting composition “Emmanuel M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Emmanuel M3.mp4
+  
+  2019-06-15 00:10:58: Finished composition “Emmanuel M3”.
+
+
+
+  2019-06-15 00:10:59: Starting composition “Fitzwilliam M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Fitzwilliam M2.mp4
+  
+  2019-06-15 00:16:13: Finished composition “Fitzwilliam M2”.
+
+
+
+  2019-06-15 00:16:14: Starting composition “Jesus M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Jesus M3.mp4
+  
+  2019-06-15 00:18:48: Finished composition “Jesus M3”.
+
+
+
+  2019-06-15 00:18:48: Starting composition “Lady Margaret M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Lady Margaret M3.mp4
+  
+  2019-06-15 00:20:56: Finished composition “Lady Margaret M3”.
+
+
+
+  2019-06-15 00:20:56: Starting composition “Magdalene M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Magdalene M2.mp4
+  
+  2019-06-15 00:24:12: Finished composition “Magdalene M2”.
+
+
+
+  2019-06-15 00:24:13: Starting composition “Peterhouse M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Peterhouse M2.mp4
+  
+  2019-06-15 00:26:08: Finished composition “Peterhouse M2”.
+
+
+
+  2019-06-15 00:26:08: Starting composition “Queens M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Queens M2.mp4
+  
+  2019-06-15 00:28:06: Finished composition “Queens M2”.
+
+
+
+  2019-06-15 00:28:07: Starting composition “Queens M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Queens M3.mp4
+  
+  2019-06-15 00:30:44: Finished composition “Queens M3”.
+
+
+
+  2019-06-15 00:30:45: Starting composition “Robinson M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Robinson M2.mp4
+  
+  2019-06-15 00:32:25: Finished composition “Robinson M2”.
+
+
+
+  2019-06-15 00:32:26: Starting composition “Selwyn M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Selwyn M2.mp4
+  
+  2019-06-15 00:41:27: Finished composition “Selwyn M2”.
+
+
+
+  2019-06-15 00:41:27: Starting composition “St Catharines M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\St Catharines M2.mp4
+  
+  2019-06-15 00:44:24: Finished composition “St Catharines M2”.
+
+
+
+  2019-06-15 00:44:25: Starting composition “Trinity Hall M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Trinity Hall M2.mp4
+  
+  2019-06-15 00:47:38: Finished composition “Trinity Hall M2”.
+
+
+
+  2019-06-15 00:47:39: Starting composition “Wolfson M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Wolfson M2.mp4
+  
+  2019-06-15 00:52:48: Finished composition “Wolfson M2”.
+
+
+
+  2019-06-15 00:52:49: Starting composition “Christs M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm3\Christs M2.mp4
+  
+  2019-06-15 00:54:58: Finished composition “Christs M2”.
+
+
+
+  Total Time Elapsed: 1 Hr, 7 Min
+
+Log closed on 2019-06-15 at 00:54:59
+

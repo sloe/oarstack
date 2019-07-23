@@ -1,0 +1,84 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2017-wedm5.aep”
+
+Rendering started on 2017-06-14 at 19:36:39
+
+
+  2017-06-14 19:36:40: Starting composition “Christs M3”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\Christs M3.mp4
+  
+  2017-06-14 19:50:42: Finished composition “Christs M3”.
+
+
+
+  2017-06-14 19:50:42: Starting composition “Churchill M3”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\Churchill M3.mp4
+  
+  2017-06-14 19:54:47: Finished composition “Churchill M3”.
+
+
+
+  2017-06-14 19:54:48: Starting composition “Clare M4”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\Clare M4.mp4
+  
+  2017-06-14 19:56:40: Finished composition “Clare M4”.
+
+
+
+  2017-06-14 19:56:41: Starting composition “Clare M5”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\Clare M5.mp4
+  
+  2017-06-14 19:59:38: Finished composition “Clare M5”.
+
+
+
+  2017-06-14 19:59:39: Starting composition “Corpus Christi M3”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\Corpus Christi M3.mp4
+  
+  2017-06-14 20:05:43: Finished composition “Corpus Christi M3”.
+
+
+
+  2017-06-14 20:05:44: Starting composition “Emmanuel M4”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\Emmanuel M4.mp4
+  
+  2017-06-14 20:09:40: Finished composition “Emmanuel M4”.
+
+
+
+  2017-06-14 20:09:41: Starting composition “First and Third M4”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\First and Third M4.mp4
+  
+  2017-06-14 20:13:59: Finished composition “First and Third M4”.
+
+
+
+  2017-06-14 20:13:59: Starting composition “Input Comp”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divm5\Input Comp.mp4
+  
+  
+  Render stopped by user.
+  
+  2017-06-14 20:44:16: Finished composition “Input Comp”.
+
+
+
+  Total Time Elapsed: 1 Hr, 4 Min
+
+Log closed on 2017-06-14 at 20:44:17
+

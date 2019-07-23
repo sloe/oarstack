@@ -1,0 +1,63 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2019-thursm6.aep”
+
+Rendering started on 2019-06-13 at 20:09:42
+
+
+  2019-06-13 20:09:42: Starting composition “Caius M4”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm6\Caius M4.mp4
+  
+  2019-06-13 20:34:16: Finished composition “Caius M4”.
+
+
+
+  2019-06-13 20:34:17: Starting composition “Churchill M4”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm6\Churchill M4.mp4
+  
+  2019-06-13 20:47:33: Finished composition “Churchill M4”.
+
+
+
+  2019-06-13 20:47:33: Starting composition “Corpus Christi M4”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm6\Corpus Christi M4.mp4
+  
+  2019-06-13 20:52:58: Finished composition “Corpus Christi M4”.
+
+
+
+  2019-06-13 20:52:59: Starting composition “Darwin M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm6\Darwin M3.mp4
+  
+  2019-06-13 20:57:46: Finished composition “Darwin M3”.
+
+
+
+  2019-06-13 20:57:47: Starting composition “Downing M5”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm6\Downing M5.mp4
+  
+  2019-06-13 21:02:35: Finished composition “Downing M5”.
+
+
+
+  2019-06-13 21:02:36: Starting composition “Magdalene M6”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm6\Magdalene M6.mp4
+  
+  2019-06-13 21:12:46: Finished composition “Magdalene M6”.
+
+
+
+  Total Time Elapsed: 1 Hr, 3 Min
+
+Log closed on 2019-06-13 at 21:12:47
+

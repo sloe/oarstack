@@ -1,0 +1,243 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-hoc2014-div4.aep”
+
+Rendering started on 27/04/2014 at 15:30:21
+
+
+  27/04/2014 15:30:21: Starting composition “Comp 4001”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4001.mp4
+  
+  27/04/2014 15:39:35: Finished composition “Comp 4001”.
+
+
+
+  27/04/2014 15:39:36: Starting composition “Comp 4002”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4002.mp4
+  
+  27/04/2014 15:46:26: Finished composition “Comp 4002”.
+
+
+
+  27/04/2014 15:46:27: Starting composition “Comp 4003”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4003.mp4
+  
+  27/04/2014 15:52:23: Finished composition “Comp 4003”.
+
+
+
+  27/04/2014 15:52:23: Starting composition “Comp 4004”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4004.mp4
+  
+  27/04/2014 15:55:47: Finished composition “Comp 4004”.
+
+
+
+  27/04/2014 15:55:47: Starting composition “Comp 4005”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4005.mp4
+  
+  27/04/2014 16:01:49: Finished composition “Comp 4005”.
+
+
+
+  27/04/2014 16:01:50: Starting composition “Comp 4006”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4006.mp4
+  
+  27/04/2014 16:05:28: Finished composition “Comp 4006”.
+
+
+
+  27/04/2014 16:05:29: Starting composition “Comp 4007”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4007.mp4
+  
+  27/04/2014 16:10:13: Finished composition “Comp 4007”.
+
+
+
+  27/04/2014 16:10:13: Starting composition “Comp 4008”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4008.mp4
+  
+  27/04/2014 16:15:21: Finished composition “Comp 4008”.
+
+
+
+  27/04/2014 16:15:22: Starting composition “Comp 4009”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4009.mp4
+  
+  27/04/2014 16:19:28: Finished composition “Comp 4009”.
+
+
+
+  27/04/2014 16:19:29: Starting composition “Comp 4010”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4010.mp4
+  
+  27/04/2014 16:22:40: Finished composition “Comp 4010”.
+
+
+
+  27/04/2014 16:22:40: Starting composition “Comp 4011”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4011.mp4
+  
+  27/04/2014 16:25:53: Finished composition “Comp 4011”.
+
+
+
+  27/04/2014 16:25:54: Starting composition “Comp 4012”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4012.mp4
+  
+  27/04/2014 16:29:38: Finished composition “Comp 4012”.
+
+
+
+  27/04/2014 16:29:38: Starting composition “Comp 4013”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4013.mp4
+  
+  27/04/2014 16:32:42: Finished composition “Comp 4013”.
+
+
+
+  27/04/2014 16:32:43: Starting composition “Comp 4014”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4014.mp4
+  
+  27/04/2014 16:36:19: Finished composition “Comp 4014”.
+
+
+
+  27/04/2014 16:36:19: Starting composition “Comp 4015”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4015.mp4
+  
+  27/04/2014 16:40:58: Finished composition “Comp 4015”.
+
+
+
+  27/04/2014 16:40:58: Starting composition “Comp 4016”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4016.mp4
+  
+  27/04/2014 16:45:50: Finished composition “Comp 4016”.
+
+
+
+  27/04/2014 16:45:51: Starting composition “Comp 4017”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4017.mp4
+  
+  27/04/2014 16:50:45: Finished composition “Comp 4017”.
+
+
+
+  27/04/2014 16:50:46: Starting composition “Comp 4018”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4018.mp4
+  
+  27/04/2014 16:54:29: Finished composition “Comp 4018”.
+
+
+
+  27/04/2014 16:54:29: Starting composition “Comp 4019”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4019.mp4
+  
+  27/04/2014 16:59:50: Finished composition “Comp 4019”.
+
+
+
+  27/04/2014 16:59:51: Starting composition “Comp 4020”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4020.mp4
+  
+  27/04/2014 17:08:29: Finished composition “Comp 4020”.
+
+
+
+  27/04/2014 17:08:29: Starting composition “Comp 4021”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4021.mp4
+  
+  27/04/2014 17:11:30: Finished composition “Comp 4021”.
+
+
+
+  27/04/2014 17:11:31: Starting composition “Comp 4022”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4022.mp4
+  
+  27/04/2014 17:16:56: Finished composition “Comp 4022”.
+
+
+
+  27/04/2014 17:16:56: Starting composition “Comp 4023”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4023.mp4
+  
+  27/04/2014 17:20:28: Finished composition “Comp 4023”.
+
+
+
+  27/04/2014 17:20:29: Starting composition “Comp 4024”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4024.mp4
+  
+  27/04/2014 17:24:04: Finished composition “Comp 4024”.
+
+
+
+  27/04/2014 17:24:05: Starting composition “Comp 4025”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4025.mp4
+  
+  27/04/2014 17:31:09: Finished composition “Comp 4025”.
+
+
+
+  27/04/2014 17:31:09: Starting composition “Comp 4026”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div4\Comp 4026.mp4
+  
+  27/04/2014 17:41:34: Finished composition “Comp 4026”.
+
+
+
+  Total Time Elapsed: 2 Hr, 11 Min
+
+Log closed on 27/04/2014 at 17:41:35
+

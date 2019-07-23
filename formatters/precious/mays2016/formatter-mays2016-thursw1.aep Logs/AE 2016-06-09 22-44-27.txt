@@ -1,0 +1,171 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2016-thursw1.aep”
+
+Rendering started on 2016-06-09 at 22:44:27
+
+
+  2016-06-09 22:44:27: Starting composition “Caius W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Caius W1.mp4
+  
+  2016-06-09 22:45:41: Finished composition “Caius W1”.
+
+
+
+  2016-06-09 22:45:41: Starting composition “Christs W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Christs W1.mp4
+  
+  2016-06-09 22:46:54: Finished composition “Christs W1”.
+
+
+
+  2016-06-09 22:46:55: Starting composition “Churchill W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Churchill W1.mp4
+  
+  2016-06-09 23:02:24: Finished composition “Churchill W1”.
+
+
+
+  2016-06-09 23:02:24: Starting composition “Clare W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Clare W1.mp4
+  
+  2016-06-09 23:03:44: Finished composition “Clare W1”.
+
+
+
+  2016-06-09 23:03:44: Starting composition “Downing W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Downing W1.mp4
+  
+  2016-06-09 23:05:54: Finished composition “Downing W1”.
+
+
+
+  2016-06-09 23:05:55: Starting composition “Emmanuel W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Emmanuel W1.mp4
+  
+  2016-06-09 23:07:04: Finished composition “Emmanuel W1”.
+
+
+
+  2016-06-09 23:07:05: Starting composition “First and Third W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\First and Third W1.mp4
+  
+  2016-06-09 23:08:11: Finished composition “First and Third W1”.
+
+
+
+  2016-06-09 23:08:12: Starting composition “Girton W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Girton W1.mp4
+  
+  2016-06-09 23:09:37: Finished composition “Girton W1”.
+
+
+
+  2016-06-09 23:09:38: Starting composition “Jesus W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Jesus W1.mp4
+  
+  2016-06-09 23:11:02: Finished composition “Jesus W1”.
+
+
+
+  2016-06-09 23:11:03: Starting composition “Jesus W2”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Jesus W2.mp4
+  
+  2016-06-09 23:12:33: Finished composition “Jesus W2”.
+
+
+
+  2016-06-09 23:12:33: Starting composition “Kings W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Kings W1.mp4
+  
+  2016-06-09 23:13:47: Finished composition “Kings W1”.
+
+
+
+  2016-06-09 23:13:47: Starting composition “Lady Margaret W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Lady Margaret W1.mp4
+  
+  2016-06-09 23:20:39: Finished composition “Lady Margaret W1”.
+
+
+
+  2016-06-09 23:20:39: Starting composition “Magdalene W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Magdalene W1.mp4
+  
+  2016-06-09 23:23:21: Finished composition “Magdalene W1”.
+
+
+
+  2016-06-09 23:23:21: Starting composition “Newnham W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Newnham W1.mp4
+  
+  2016-06-09 23:24:52: Finished composition “Newnham W1”.
+
+
+
+  2016-06-09 23:24:52: Starting composition “Pembroke W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Pembroke W1.mp4
+  
+  2016-06-09 23:26:30: Finished composition “Pembroke W1”.
+
+
+
+  2016-06-09 23:26:30: Starting composition “Peterhouse W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Peterhouse W1.mp4
+  
+  2016-06-09 23:27:59: Finished composition “Peterhouse W1”.
+
+
+
+  2016-06-09 23:27:59: Starting composition “Queens W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\Queens W1.mp4
+  
+  2016-06-09 23:29:34: Finished composition “Queens W1”.
+
+
+
+  2016-06-09 23:29:34: Starting composition “St Catharines W1”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\final\derived\mays2016\thurs\divw1\St Catharines W1.mp4
+  
+  2016-06-09 23:34:35: Finished composition “St Catharines W1”.
+
+
+
+  Total Time Elapsed: 50 Min, 8 Sec
+
+Log closed on 2016-06-09 at 23:34:35
+

@@ -1,0 +1,173 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2017-wedw4.aep”
+
+Rendering started on 2017-06-14 at 22:13:51
+
+
+  2017-06-14 22:13:51: Starting composition “Anglia Ruskin W1”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Anglia Ruskin W1.mp4
+  
+  2017-06-14 22:17:51: Finished composition “Anglia Ruskin W1”.
+
+
+
+  2017-06-14 22:17:52: Starting composition “Caius W3”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Caius W3.mp4
+  
+  2017-06-14 22:23:36: Finished composition “Caius W3”.
+
+
+
+  2017-06-14 22:23:36: Starting composition “Christs W3”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Christs W3.mp4
+  
+  2017-06-14 22:33:15: Finished composition “Christs W3”.
+
+
+
+  2017-06-14 22:33:16: Starting composition “Clare W3”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Clare W3.mp4
+  
+  2017-06-14 22:49:24: Finished composition “Clare W3”.
+
+
+
+  2017-06-14 22:49:24: Starting composition “Clare W4”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Clare W4.mp4
+  
+  2017-06-14 22:53:27: Finished composition “Clare W4”.
+
+
+
+  2017-06-14 22:53:28: Starting composition “Darwin W2”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Darwin W2.mp4
+  
+  2017-06-14 22:56:43: Finished composition “Darwin W2”.
+
+
+
+  2017-06-14 22:56:44: Starting composition “Emmanuel W4”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Emmanuel W4.mp4
+  
+  2017-06-14 23:01:07: Finished composition “Emmanuel W4”.
+
+
+
+  2017-06-14 23:01:08: Starting composition “Fitzwilliam W2”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Fitzwilliam W2.mp4
+  
+  2017-06-14 23:04:00: Finished composition “Fitzwilliam W2”.
+
+
+
+  2017-06-14 23:04:01: Starting composition “Homerton W2”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Homerton W2.mp4
+  
+  2017-06-14 23:12:48: Finished composition “Homerton W2”.
+
+
+
+  2017-06-14 23:12:49: Starting composition “Hughes Hall Lucy Cav W3”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Hughes Hall Lucy Cav W3.mp4
+  
+  2017-06-14 23:17:28: Finished composition “Hughes Hall Lucy Cav W3”.
+
+
+
+  2017-06-14 23:17:28: Starting composition “Jesus W4”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Jesus W4.mp4
+  
+  2017-06-14 23:24:22: Finished composition “Jesus W4”.
+
+
+
+  2017-06-14 23:24:23: Starting composition “Kings W2”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Kings W2.mp4
+  
+  2017-06-14 23:26:30: Finished composition “Kings W2”.
+
+
+
+  2017-06-14 23:26:30: Starting composition “Lady Margaret W3”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Lady Margaret W3.mp4
+  
+  2017-06-14 23:31:34: Finished composition “Lady Margaret W3”.
+
+
+
+  2017-06-14 23:31:34: Starting composition “Magdalene W2”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Magdalene W2.mp4
+  
+  2017-06-14 23:48:04: Finished composition “Magdalene W2”.
+
+
+
+  2017-06-14 23:48:04: Starting composition “Murray Edwards W3”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Murray Edwards W3.mp4
+  
+  2017-06-14 23:50:07: Finished composition “Murray Edwards W3”.
+
+
+
+  2017-06-14 23:50:07: Starting composition “Queens W3”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Queens W3.mp4
+  
+  2017-06-14 23:56:49: Finished composition “Queens W3”.
+
+
+
+  2017-06-14 23:56:50: Starting composition “Sidney Sussex W2”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\Sidney Sussex W2.mp4
+  
+  2017-06-15 00:09:05: Finished composition “Sidney Sussex W2”.
+
+
+
+  2017-06-15 00:09:06: Starting composition “St Catharines W3”.
+
+
+  Output To: C:\derin\oarstack\primary\derived\mays2017\wed\divw4\St Catharines W3.mp4
+  
+After Effects error: Attribute “reportErrorOnMissingFrame” may not be set during rendering or callbacks.
+After Effects error: Attribute “reportErrorOnMissingFrame” may not be set during rendering or callbacks.
+  2017-06-15 00:13:33: Finished composition “St Catharines W3”.
+
+
+
+  Total Time Elapsed: 1 Hr, 59 Min
+
+Log closed on 2017-06-15 at 00:13:34
+

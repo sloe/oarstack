@@ -1,0 +1,54 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2015-wedm6.aep”
+
+Rendering started on 6/10/2015 at 6:56:10 PM
+
+
+  6/10/2015 6:56:10 PM: Starting composition “Caius M4”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm6\Caius M4.mp4
+  
+  6/10/2015 6:58:16 PM: Finished composition “Caius M4”.
+
+
+
+  6/10/2015 6:58:17 PM: Starting composition “Peterhouse M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm6\Peterhouse M3.mp4
+  
+  6/10/2015 7:01:42 PM: Finished composition “Peterhouse M3”.
+
+
+
+  6/10/2015 7:01:43 PM: Starting composition “Robinson M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm6\Robinson M3.mp4
+  
+  6/10/2015 7:02:52 PM: Finished composition “Robinson M3”.
+
+
+
+  6/10/2015 7:02:53 PM: Starting composition “Selwyn M4”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm6\Selwyn M4.mp4
+  
+  6/10/2015 7:05:49 PM: Finished composition “Selwyn M4”.
+
+
+
+  6/10/2015 7:05:50 PM: Starting composition “Sidney Sussex M3”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\mays2015\wed\divm6\Sidney Sussex M3.mp4
+  
+  6/10/2015 7:08:39 PM: Finished composition “Sidney Sussex M3”.
+
+
+
+  Total Time Elapsed: 12 Min, 29 Sec
+
+Log closed on 6/10/2015 at 7:08:40 PM
+

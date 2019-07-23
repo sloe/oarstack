@@ -1,0 +1,306 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-hoc2014-div1.aep”
+
+Rendering started on 27/04/2014 at 11:43:43
+
+
+  27/04/2014 11:43:43: Starting composition “Comp 1001”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1001.mp4
+  
+  27/04/2014 11:47:04: Finished composition “Comp 1001”.
+
+
+
+  27/04/2014 11:47:04: Starting composition “Comp 1002”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1002.mp4
+  
+  27/04/2014 11:51:18: Finished composition “Comp 1002”.
+
+
+
+  27/04/2014 11:51:19: Starting composition “Comp 1003”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1003.mp4
+  
+  27/04/2014 11:57:13: Finished composition “Comp 1003”.
+
+
+
+  27/04/2014 11:57:14: Starting composition “Comp 1004”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1004.mp4
+  
+  27/04/2014 11:59:50: Finished composition “Comp 1004”.
+
+
+
+  27/04/2014 11:59:51: Starting composition “Comp 1005”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1005.mp4
+  
+  27/04/2014 12:03:42: Finished composition “Comp 1005”.
+
+
+
+  27/04/2014 12:03:42: Starting composition “Comp 1006”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1006.mp4
+  
+  27/04/2014 12:07:53: Finished composition “Comp 1006”.
+
+
+
+  27/04/2014 12:07:54: Starting composition “Comp 1007”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1007.mp4
+  
+  27/04/2014 12:11:35: Finished composition “Comp 1007”.
+
+
+
+  27/04/2014 12:11:35: Starting composition “Comp 1008”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1008.mp4
+  
+  27/04/2014 12:15:23: Finished composition “Comp 1008”.
+
+
+
+  27/04/2014 12:15:23: Starting composition “Comp 1009”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1009.mp4
+  
+  27/04/2014 12:18:49: Finished composition “Comp 1009”.
+
+
+
+  27/04/2014 12:18:50: Starting composition “Comp 1010”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1010.mp4
+  
+  27/04/2014 12:22:57: Finished composition “Comp 1010”.
+
+
+
+  27/04/2014 12:22:58: Starting composition “Comp 1011”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1011.mp4
+  
+  27/04/2014 12:28:07: Finished composition “Comp 1011”.
+
+
+
+  27/04/2014 12:28:08: Starting composition “Comp 1012”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1012.mp4
+  
+  27/04/2014 12:31:46: Finished composition “Comp 1012”.
+
+
+
+  27/04/2014 12:31:46: Starting composition “Comp 1013”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1013.mp4
+  
+  27/04/2014 12:35:29: Finished composition “Comp 1013”.
+
+
+
+  27/04/2014 12:35:29: Starting composition “Comp 1014”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1014.mp4
+  
+  27/04/2014 12:38:35: Finished composition “Comp 1014”.
+
+
+
+  27/04/2014 12:38:35: Starting composition “Comp 1015”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1015.mp4
+  
+  27/04/2014 12:41:31: Finished composition “Comp 1015”.
+
+
+
+  27/04/2014 12:41:32: Starting composition “Comp 1016”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1016.mp4
+  
+  27/04/2014 12:45:43: Finished composition “Comp 1016”.
+
+
+
+  27/04/2014 12:45:44: Starting composition “Comp 1017”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1017.mp4
+  
+  27/04/2014 12:49:14: Finished composition “Comp 1017”.
+
+
+
+  27/04/2014 12:49:14: Starting composition “Comp 1018”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1018.mp4
+  
+  27/04/2014 12:54:46: Finished composition “Comp 1018”.
+
+
+
+  27/04/2014 12:54:47: Starting composition “Comp 1019”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1019.mp4
+  
+  27/04/2014 12:58:32: Finished composition “Comp 1019”.
+
+
+
+  27/04/2014 12:58:33: Starting composition “Comp 1020”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1020.mp4
+  
+  27/04/2014 13:00:53: Finished composition “Comp 1020”.
+
+
+
+  27/04/2014 13:00:53: Starting composition “Comp 1021”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1021.mp4
+  
+  27/04/2014 13:04:55: Finished composition “Comp 1021”.
+
+
+
+  27/04/2014 13:04:56: Starting composition “Comp 1022”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1022.mp4
+  
+  27/04/2014 13:08:21: Finished composition “Comp 1022”.
+
+
+
+  27/04/2014 13:08:22: Starting composition “Comp 1023”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1023.mp4
+  
+  27/04/2014 13:12:47: Finished composition “Comp 1023”.
+
+
+
+  27/04/2014 13:12:48: Starting composition “Comp 1024”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1024.mp4
+  
+  27/04/2014 13:16:36: Finished composition “Comp 1024”.
+
+
+
+  27/04/2014 13:16:36: Starting composition “Comp 1025”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1025.mp4
+  
+  27/04/2014 13:19:33: Finished composition “Comp 1025”.
+
+
+
+  27/04/2014 13:19:34: Starting composition “Comp 1026”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1026.mp4
+  
+  27/04/2014 13:23:13: Finished composition “Comp 1026”.
+
+
+
+  27/04/2014 13:23:14: Starting composition “Comp 1027”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1027.mp4
+  
+  27/04/2014 13:26:42: Finished composition “Comp 1027”.
+
+
+
+  27/04/2014 13:26:43: Starting composition “Comp 1028”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1028.mp4
+  
+  27/04/2014 13:30:48: Finished composition “Comp 1028”.
+
+
+
+  27/04/2014 13:30:49: Starting composition “Comp 1029”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1029.mp4
+  
+  27/04/2014 13:33:41: Finished composition “Comp 1029”.
+
+
+
+  27/04/2014 13:33:42: Starting composition “Comp 1030”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1030.mp4
+  
+  27/04/2014 13:36:57: Finished composition “Comp 1030”.
+
+
+
+  27/04/2014 13:36:57: Starting composition “Comp 1031”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1031.mp4
+  
+  27/04/2014 13:40:45: Finished composition “Comp 1031”.
+
+
+
+  27/04/2014 13:40:46: Starting composition “Comp 1032”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1032.mp4
+  
+  27/04/2014 13:45:10: Finished composition “Comp 1032”.
+
+
+
+  27/04/2014 13:45:10: Starting composition “Comp 1033”.
+
+
+  Output To: \\WIN8SERVICE\oarstack\oarstack\primary\derived\hoc2014\div1\Comp 1033.mp4
+  
+  27/04/2014 13:52:48: Finished composition “Comp 1033”.
+
+
+
+  Total Time Elapsed: 2 Hr, 9 Min
+
+Log closed on 27/04/2014 at 13:52:49
+

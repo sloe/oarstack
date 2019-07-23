@@ -1,0 +1,22 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2018-wedw4.aep”
+
+Rendering started on 2018-06-13 at 22:54:42
+
+
+  2018-06-13 22:54:43: Starting composition “Caius W3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2018\wed\divw4\Caius W3.mp4
+  
+   There is an error in background rendering so switching to foreground rendering after 1 frames completed out of total 847 frames. (26  ::  142)
+  
+  Render stopped by user.
+  
+  2018-06-13 23:11:48: Finished composition “Caius W3”.
+
+
+
+  Total Time Elapsed: 16 Min, 46 Sec
+
+Log closed on 2018-06-13 at 23:11:49
+

@@ -1,0 +1,171 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “formatter-mays2019-thursm4.aep”
+
+Rendering started on 2019-06-14 at 20:55:20
+
+
+  2019-06-14 20:55:20: Starting composition “Anglia Ruskin M1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Anglia Ruskin M1.mp4
+  
+  2019-06-14 21:08:22: Finished composition “Anglia Ruskin M1”.
+
+
+
+  2019-06-14 21:08:24: Starting composition “Caius M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Caius M3.mp4
+  
+  2019-06-14 21:18:00: Finished composition “Caius M3”.
+
+
+
+  2019-06-14 21:18:00: Starting composition “Christs M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Christs M3.mp4
+  
+  2019-06-14 21:27:42: Finished composition “Christs M3”.
+
+
+
+  2019-06-14 21:27:43: Starting composition “Churchill M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Churchill M3.mp4
+  
+  2019-06-14 21:50:17: Finished composition “Churchill M3”.
+
+
+
+  2019-06-14 21:50:18: Starting composition “Clare Hall M1”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Clare Hall M1.mp4
+  
+  2019-06-14 21:53:35: Finished composition “Clare Hall M1”.
+
+
+
+  2019-06-14 21:53:35: Starting composition “Corpus Christi M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Corpus Christi M2.mp4
+  
+  2019-06-14 21:57:39: Finished composition “Corpus Christi M2”.
+
+
+
+  2019-06-14 21:57:40: Starting composition “Darwin M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Darwin M2.mp4
+  
+  2019-06-14 22:02:38: Finished composition “Darwin M2”.
+
+
+
+  2019-06-14 22:02:39: Starting composition “Downing M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Downing M3.mp4
+  
+  2019-06-14 22:14:36: Finished composition “Downing M3”.
+
+
+
+  2019-06-14 22:14:37: Starting composition “First and Third M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\First and Third M3.mp4
+  
+  2019-06-14 22:18:22: Finished composition “First and Third M3”.
+
+
+
+  2019-06-14 22:18:24: Starting composition “Girton M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Girton M2.mp4
+  
+  2019-06-14 22:24:09: Finished composition “Girton M2”.
+
+
+
+  2019-06-14 22:24:10: Starting composition “Homerton M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Homerton M2.mp4
+  
+  2019-06-14 22:35:04: Finished composition “Homerton M2”.
+
+
+
+  2019-06-14 22:35:05: Starting composition “Hughes Hall M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Hughes Hall M2.mp4
+  
+  2019-06-14 22:39:41: Finished composition “Hughes Hall M2”.
+
+
+
+  2019-06-14 22:39:42: Starting composition “Kings M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Kings M2.mp4
+  
+  2019-06-14 22:44:48: Finished composition “Kings M2”.
+
+
+
+  2019-06-14 22:44:49: Starting composition “Pembroke M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Pembroke M3.mp4
+  
+  2019-06-14 22:50:22: Finished composition “Pembroke M3”.
+
+
+
+  2019-06-14 22:50:22: Starting composition “Sidney Sussex M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Sidney Sussex M2.mp4
+  
+  2019-06-14 23:12:45: Finished composition “Sidney Sussex M2”.
+
+
+
+  2019-06-14 23:12:46: Starting composition “St Catharines M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\St Catharines M3.mp4
+  
+  2019-06-14 23:30:01: Finished composition “St Catharines M3”.
+
+
+
+  2019-06-14 23:30:02: Starting composition “St Edmunds M2”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\St Edmunds M2.mp4
+  
+  2019-06-14 23:34:16: Finished composition “St Edmunds M2”.
+
+
+
+  2019-06-14 23:34:17: Starting composition “Trinity Hall M3”.
+
+
+  Output To: C:\oarstack\primary\derived\mays2019\thurs\divm4\Trinity Hall M3.mp4
+  
+  2019-06-14 23:40:04: Finished composition “Trinity Hall M3”.
+
+
+
+  Total Time Elapsed: 2 Hr, 44 Min
+
+Log closed on 2019-06-14 at 23:40:05
+
